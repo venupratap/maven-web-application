@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">bye bye carona </h1>
-<h1 align="center">please everyone do hand wash</h1>
+<h1 align="center">please everyone do hand wash..</h1>
 
 </body>
 </html>
